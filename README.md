@@ -3,7 +3,6 @@
 I am **Jiří Kratochvíl**, a Software Developer currently living in Berlin
 
 [![Homepage][web-image]](https://kratochvil.tech/)
-[![Engineer at fromAtoB][a2b-image]](https://eng.fromatob.com/)
 [![Twitter Follow][twitter-image]](https://twitter.com/sedrickcz)
 
 ![Vue.js][vue-image]
@@ -14,7 +13,6 @@ I am **Jiří Kratochvíl**, a Software Developer currently living in Berlin
 
 
 [web-image]: https://img.shields.io/badge/%20-kratochvil.tech-brightgreen?style=flat-square&logo=google-chrome&logoColor=white
-[a2b-image]: https://img.shields.io/badge/Engineer-fromAtoB-blue
 [vue-image]: https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white
 [js-image]: https://img.shields.io/badge/%20-JavaScript-grey?style=flat-square&logo=javascript&logoColor=f7df1e
 [twitter-image]: https://img.shields.io/twitter/follow/sedrickcz?style=social

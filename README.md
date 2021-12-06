@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am **Jiří Kratochvíl**, a Software Developer currently living in Berlin
+I am **Jiří Kratochvíl**, a Software Developer currently living in Litoměřice, Czech Republic 🇨🇿
 
-[![Homepage][web-image]](https://kratochvil.tech/)
+🏢 I'm currently working in [Sharry](https://www.sharry.tech), Prague, Czech Republic
+
 [![Twitter Follow][twitter-image]](https://twitter.com/sedrickcz)
 
 ![Vue.js][vue-image]
@@ -32,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![Homepage][web-image]](https://kratochvil.tech/)
 -->

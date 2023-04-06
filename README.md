@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am **Jiří Kratochvíl**, a Software Developer currently living in Litoměřice, Czech Republic 🇨🇿
+I am **Jiří Kratochvíl**, a Senior Full Stack Developer currently living in Litoměřice, Czech Republic 🇨🇿
 
-🏢 I'm currently working in [Sharry](https://www.sharry.tech), Prague, Czech Republic
+🏢 I'm currently working in [Code Gaia](https://www.codegaia.io), Prague, Czech Republic
 
 [![Twitter Follow][twitter-image]](https://twitter.com/sedrickcz)
 

@@ -2,7 +2,7 @@
 
 I am **Jiří Kratochvíl**, a Senior Full Stack Developer currently living in Litoměřice, Czech Republic 🇨🇿
 
-🏢 I'm currently working in [Code Gaia](https://www.codegaia.io), Prague, Czech Republic
+🏢 I'm currently working in [Code Gaia](https://www.codegaia.io), Munich, Germany
 
 [![Twitter Follow][twitter-image]](https://twitter.com/sedrickcz)
 
